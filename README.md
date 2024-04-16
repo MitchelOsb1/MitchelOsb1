@@ -23,6 +23,9 @@
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
             <li>📫 <b>How to reach me</b>: Reach out on X 👆.</li>        
         </ul>
+        <div align="center">
+            [![](https://visitcount.itsvg.in/api?id=mitchelosb1&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+        </div>
     </div>
 
 
@@ -59,14 +62,14 @@
 ![Bun](https://img.shields.io/badge/bun-FFFFFF?style=flat-square&logo=bun&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=181717)
-
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FFFFFF?style=flat-square&logo=awsamplify&logoColor=FF9900)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FFFFFF?style=flat-square&logo=awslambda&logoColor=FF9900)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS%20Dynamo%20DB-FFFFFF?style=flat-square&logo=amazondynamodb&logoColor=FF9900)
 ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
+
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 
 <p align="left">
