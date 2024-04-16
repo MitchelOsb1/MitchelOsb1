@@ -1,6 +1,5 @@
 <div>
     <div align=center>
-        <img src="https://madlads.s3.us-west-2.amazonaws.com/images/7609.png" alt="Madlad" height="250">
         <h3>Hello! I am Mitchel!</h3>
     </div>
     <div align=center>
@@ -10,15 +9,6 @@
     </div>
     <div align=left>
         <br>
-        <p>
-            <strong>
-                With over 10 years of experience in systems/network information, I have developed a deep
-                understanding of complex infrastructure solutions. Additionally, my 6+ years of coding
-                experience have equipped me with the ability to create efficient and scalable solutions. I am
-                passionate about collaborating with teams to deliver exceptional results and am always looking
-                for opportunities to learn and grow.
-            </strong>
-        </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a> and <a href="https://p3labs.xyz/">P3 Labs</a>.</li>
