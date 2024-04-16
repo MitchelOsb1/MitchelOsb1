@@ -2,6 +2,10 @@
     <div align=center>
         <h3>Hello! I am Mitchel!</h3>
     </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
     <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/twitter-FFFFFF?style=flat&logo=twitter" alt="Twitter" /></a>
@@ -10,17 +14,16 @@
     <div align=left>
         <br>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Rust, Metaplex, and Scrypto.</li>
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a> and <a href="https://p3labs.xyz/">P3 Labs</a>.</li>
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
-            <li>📫 <b>How to reach me</b>: <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424&text=Hello%20Ribo" class="twitter-dm-button" data-screen-name="@ribo_sol">Message</a>.</li>        
+            <li>📫 <b>How to reach me</b>: Reach out on X Below.</li>        
         </ul>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+        <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424" class="twitter-dm-button" data-screen-name="@ribo_sol">Message Me</a>
 
-##### 💻 Skill Tree
+### 💻 Skill Tree
 
 ### 📺 Programming Languages
 
@@ -65,9 +68,8 @@
 
  ### 🤜🤛 Github Statistics
 
-
-<p align="left">
-<table align="left">
+<p align="center">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=mitchelosb1&theme=light&show_icons=true&count_private=true" />
