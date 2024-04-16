@@ -1,10 +1,8 @@
 <div>
     <div align=center>
-        <img src="https://madlads.s3.us-west-2.amazonaws.com/images/7609.png" alt="Madlad" height="250">
-    </div>
-    <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://twitter.com/ribo_sol/"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="X" height="25" /></a>
+        <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=flat&logo=twitter" alt="Twitter" /></a>
+        <a href="https://discord.com/user/ribo.sol/"><img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord" alt="Discord" /></a>
     </div>
     <div align=left>
         <br>
@@ -19,7 +17,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a>.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a> and <a href="https://p3labs.xyz/">P3 Labs</a>.</li>
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
             <li>📫 <b>How to reach me</b>: Reach out on X 👆.</li>        
         </ul>
