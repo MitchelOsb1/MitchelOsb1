@@ -16,9 +16,8 @@
             <li>📫 <b>How to reach me</b>: Reach out on X Below.</li>        
         </ul>
 
+        <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424" class="twitter-dm-button" data-screen-name="@ribo_sol">Message Me</a>
 
-        <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424"
-        class="twitter-dm-button" data-screen-name="@ribo_sol">
       Message Me</a>
       
 <!--horizontal divider(gradiant)-->
