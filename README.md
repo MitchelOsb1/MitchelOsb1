@@ -2,10 +2,6 @@
     <div align=center>
         <h3>Hello! I am Mitchel!</h3>
     </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
     <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/twitter-FFFFFF?style=flat&logo=twitter" alt="Twitter" /></a>
@@ -22,6 +18,9 @@
 
 
         <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424" class="twitter-dm-button" data-screen-name="@ribo_sol">Message Me</a>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 Skill Tree
 
