@@ -4,8 +4,8 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/twitter-FFFFFF?style=flat&logo=twitter" alt="Twitter" /></a>
-        <a href="https://discordapp.com/users/322507539906560002"><img src="https://img.shields.io/badge/discord-FFFFFF?style=flat&logo=discord" alt="Discord" /></a>
+        <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=flat&logo=twitter" alt="Twitter" /></a>
+        <a href="https://discordapp.com/users/322507539906560002"><img src="https://img.shields.io/badge/Discord-FFFFFF?style=flat&logo=discord" alt="Discord" /></a>
     </div>
     <div align=left>
         <br>
