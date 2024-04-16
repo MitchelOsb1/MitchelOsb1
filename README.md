@@ -42,7 +42,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-FFFFFF?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Axios](https://img.shields.io/badge/Axios-FFFFFF?style=flat-square&logo=Axios&logoColor=5A29E4)
 ![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=flat-square&logo=angular&logoColor=0F0F11)
-![Tailwind CSS] (https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 
 ### 💾 Backend Development
