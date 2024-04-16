@@ -13,10 +13,6 @@
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
             <li>📫 <b>How to reach me</b>:<a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424" class="twitter-dm-button" data-screen-name="@ribo_sol">Message Me</a></li>        
         </ul>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <h1 align=center>💻 Skill Tree</h1>
 
 ### 📺 Programming Languages
