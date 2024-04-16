@@ -52,11 +52,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
- ### 🤜🤛 Github Statistics
+<h1 align=center>🤜🤛 Github Statistics</h1>
 
 <p align="center">
 <table align="center">
