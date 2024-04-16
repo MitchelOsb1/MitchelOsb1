@@ -13,15 +13,12 @@
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a> and <a href="https://p3labs.xyz/">P3 Labs</a>.</li>
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
-            <li>📫 <b>How to reach me</b>: Reach out on X Below.</li>        
+            <li>📫 <b>How to reach me</b>: Reach out on X here: <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424&text=Hello%20Ribo" class="twitter-dm-button" data-screen-name="@ribo_sol">Ribo_Sol</a>.</li>        
         </ul>
-
-        <a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424" class="twitter-dm-button" data-screen-name="@ribo_sol">Message Me</a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://twitter.com/messages/compose?recipient_id=3805104374&text=Hello%20world" class="twitter-dm-button" data-screen-name="@furni">Message @furni</a>
 
 ##### 💻 Skill Tree
 
