@@ -1,8 +1,12 @@
 <div>
     <div align=center>
+        <img src="https://madlads.s3.us-west-2.amazonaws.com/images/7609.png" alt="Madlad" height="250">
+        <h3>Hello! I am Mitchel!</h3>
+    </div>
+    <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=flat&logo=twitter" alt="Twitter" /></a>
-        <a href="https://discord.com/user/ribo.sol/"><img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord" alt="Discord" /></a>
+        <a href="https://twitter.com/ribo_sol/"><img src="https://img.shields.io/badge/twitter-FFFFFF?style=flat&logo=twitter" alt="Twitter" /></a>
+        <a href="https://discord.com/user/ribo.sol/"><img src="https://img.shields.io/badge/discord-FFFFFF?style=flat&logo=discord" alt="Discord" /></a>
     </div>
     <div align=left>
         <br>
