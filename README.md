@@ -20,13 +20,13 @@
 
 ##### 💻 Skill Tree
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+### 📺 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=A8B9CC)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
+### 🖼️ Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)
@@ -43,10 +43,10 @@
 ![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?style=flat-square&logo=prisma&logoColor=2D3748)
 ![tRPC](https://img.shields.io/badge/Trpc-FFFFFF?style=flat-square&logo=trpc&logoColor=2596BE)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+### 📊 Data Analysis
 ![Grafana](https://img.shields.io/badge/Grafana-FFFFFF?style=flat-square&logo=grafana&logoColor=F46800)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+### 🔧 Software & Tools
 ![npm](https://img.shields.io/badge/npm-FFFFFF?style=flat-square&logo=npm&logoColor=CB3837)
 ![Bun](https://img.shields.io/badge/bun-FFFFFF?style=flat-square&logo=bun&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=Git&logoColor=F05032)
@@ -61,7 +61,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+<picture> 🤜🤛 ### Contributions
 
 
 <p align="left">
