@@ -23,13 +23,6 @@
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
             <li>📫 <b>How to reach me</b>: Reach out on X 👆.</li>        
         </ul>
-        <div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=mitchelosb1&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -71,6 +64,9 @@
 ![AWS DynamoDB](https://img.shields.io/badge/AWS%20Dynamo%20DB-FFFFFF?style=flat-square&logo=amazondynamodb&logoColor=FF9900)
 ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase&logoColor=3FCF8E)
 
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
