@@ -13,6 +13,10 @@
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a> and <a href="https://p3labs.xyz/">P3 Labs</a>.</li>
             <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
+
+            <li><a href="https://twitter.com/messages/compose?recipient_id=1048003806787559424"
+                class="twitter-dm-button" data-screen-name="@ribo_sol">
+              Message Me</a></li>
             <li>📫 <b>How to reach me</b>: Reach out on X 👆.</li>        
         </ul>
 <!--horizontal divider(gradiant)-->
