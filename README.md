@@ -20,13 +20,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=Python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=C&logoColor=A8B9CC)
+![Typescript](https://img.shields.io/badge/Typescript-FFFFFF?style=flat-square&logo=typescript&logoColor=3178C6)
 
 ### 🖼️ Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-FFFFFF?style=flat-square&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/Typescript-FFFFFF?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Axios](https://img.shields.io/badge/Axios-FFFFFF?style=flat-square&logo=Axios&logoColor=5A29E4)
 ![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=flat-square&logo=angular&logoColor=0F0F11)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
