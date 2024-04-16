@@ -4,24 +4,24 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://twitter.com/ribo_sol/"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="X" /></a>
+        <a href="https://twitter.com/ribo_sol/"><img src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="X" height="50" /></a>
     </div>
     <div align=left>
         <br>
         <p>
             <strong>
-                Lorem Impsum
+                With over 10 years of experience in systems/network information, I have developed a deep
+                understanding of complex infrastructure solutions. Additionally, my 6+ years of coding
+                experience have equipped me with the ability to create efficient and scalable solutions. I am
+                passionate about collaborating with teams to deliver exceptional results and am always looking
+                for opportunities to learn and grow.
             </strong>
         </p>
         <ul>
-<!--             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
-            <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li> -->
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://github.com/BankmenFinance">Bankmen Finance</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: I am actively seeking new job opportunities, preferably in the crypto industry, but I am open to exploring opportunities across various sectors.</li>
+            <li>📫 <b>How to reach me</b>: Reach out on X 👆.</li>        
         </ul>
     </div>
     <div align=center>
