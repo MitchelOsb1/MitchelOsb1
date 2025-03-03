@@ -66,4 +66,3 @@
 </tr>
 </table>
 </div>
-](url)
