@@ -1,4 +1,4 @@
-[<div>
+<div>
     <h1 align=center>📄</h1>
     <div align=center>
         <a href="https://www.linkedin.com/in/mitchel-o-99a391128/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
