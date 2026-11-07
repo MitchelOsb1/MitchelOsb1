@@ -13,7 +13,7 @@
 
 Infrastructure engineer with six plus years across cloud platforms, systems administration, and backend engineering. At a semiconductor manufacturer I maintain and optimize the Azure environment the business runs on, run the company's identity, endpoints, and network, and build the integrations and CI/CD pipelines that connect the shop floor to the ERP.
 
-I use AI agents every day: Claude Code, Claude Projects, and Cursor, splitting work across parallel agents by role with clear handoffs, review checkpoints, and scoped permissions.
+I use AI agents every day: Claude Code, Claude Projects, and Cursor, running parallel agents with clear handoffs, review checkpoints, and scoped permissions across development and systems work, including reverse engineering drivers and software on legacy tooling computers.
 
 ## 🧭 Experience
 
@@ -63,7 +63,6 @@ I use AI agents every day: Claude Code, Claude Projects, and Cursor, splitting w
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23%20and%20.NET-FFFFFF?style=flat-square&logo=dotnet&logoColor=512BD4)
 ![PowerShell](https://img.shields.io/badge/PowerShell-FFFFFF?style=flat-square&logo=powershell&logoColor=5391FE)
 ![Bash](https://img.shields.io/badge/Bash-FFFFFF?style=flat-square&logo=gnubash&logoColor=4EAA25)
 ![SQL](https://img.shields.io/badge/SQL%20and%20T--SQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1)
