@@ -2,7 +2,7 @@
 
 # Mitchel Osborne
 
-**Infrastructure Engineer · Cloud Engineer · Systems Administrator**
+**Infrastructure Engineer · Cloud Engineer · Full Stack Developer**
 
 [![Website](https://img.shields.io/badge/mitchelos.com-1e2a4a?style=flat&logo=googlechrome&logoColor=white)](https://www.mitchelos.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitchel-o-99a391128/)
