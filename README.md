@@ -28,7 +28,7 @@ I use AI agents every day: Claude Code, Claude Projects, and Cursor, running par
 
 - Azure: Function Apps on timer and Service Bus queue triggers, Azure SQL, App Services, Key Vault, RBAC, and Application Insights monitoring and alerting
 - Integrations from the manufacturing platform into NetSuite over the REST API, with queue driven retries that are safe to replay
-- FabOps, a manufacturing execution system in .NET and Next.js, as a supporting engineer: Entra ID SSO, RBAC, and GitHub Actions CI/CD with OIDC
+- FabOps, a manufacturing execution system in .NET and Next.js, as a supporting engineer: single sign-on, RBAC, and GitHub Actions CI/CD with OIDC
 - Frontend and backend infrastructure for large Web3 projects, including an automated reward distribution system on the Twitter, Discord, and Solana APIs
 - AWS infrastructure for TV streaming apps: VPC, EC2, NGINX, Lambda APIs, Amplify CI/CD, and Grafana monitoring
 
@@ -99,7 +99,6 @@ I use AI agents every day: Claude Code, Claude Projects, and Cursor, running par
 ![Active Directory](https://img.shields.io/badge/Active%20Directory%20%2F%20Entra%20ID-FFFFFF?style=flat-square&logo=microsoft&logoColor=0078D4)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-FFFFFF?style=flat-square&logo=microsoft&logoColor=D83B01)
 ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=FCC624)
-![Meraki](https://img.shields.io/badge/Meraki%20%2F%20Aruba%20%2F%20Sophos-FFFFFF?style=flat-square&logo=cisco&logoColor=1BA0D7)
 
 ### 📊 Monitoring and reporting
 
