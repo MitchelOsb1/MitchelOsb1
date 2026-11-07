@@ -121,12 +121,12 @@ I use AI agents every day: Claude Code, Claude Projects, and Cursor, splitting w
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mitchelosb1&theme=light&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mitchelosb1&theme=light&show_icons=true&count_private=true" />
   <br></br>
   <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=mitchelosb1&theme=light&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mitchelosb1&theme=light&hide_border=false&no-bg=true&no-frame=true"/>
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mitchelosb1&theme=light&hide_border=false&no-bg=true&no-frame=true"/>
 </td>
 </tr>
 </table>
